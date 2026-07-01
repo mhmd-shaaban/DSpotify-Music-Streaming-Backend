@@ -1,0 +1,68 @@
+# Build outputs
+*.o
+*.obj
+*.out
+*.exe
+*.bin
+*.elf
+a.out
+
+# Libraries
+*.a
+*.so
+*.dll
+*.dylib
+*.lib
+
+# Debug files
+*.dSYM/
+core
+core.*
+*.pdb
+
+# CMake generated files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Build directories
+build/
+cmake-build-debug/
+cmake-build-release/
+Debug/
+Release/
+out/
+bin/
+obj/
+
+# Test/output files
+*.log
+output.txt
+result.txt
+results.txt
+test_output.txt
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*.swo
+*~
+
+# IDE/editor files
+.vscode/
+.idea/
+*.code-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Archives/backups
+*.zip
+*.rar
+*.7z
+*.tar
+*.tar.gz
